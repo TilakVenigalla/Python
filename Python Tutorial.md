@@ -1,3 +1,3 @@
-# Cloud Cheatsheet
+# w3schools
 
-https://googlecloudcheatsheet.withgoogle.com/
+https://www.w3schools.com/python/
